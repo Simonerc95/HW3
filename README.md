@@ -19,7 +19,7 @@ you can find an explanation of all files in this repository below :
 
 - index_utils.py: a python file that contains the functions we used for creating indexes.
 
-- utils.py: a python file that gather functions we used in collector and index files
+- utils.py: containing all functions we need to run the main.py file
 
 - main.py: a python file that once executed build up the search engine and execute a query. 
 
@@ -31,4 +31,5 @@ you can find an explanation of all files in this repository below :
     - vocabulary.json : which contains a dictionary that points each term_id to a word
     - doc_words.json : which contains a dictionary that points each document to the words it contains
     - tsvs.json : which contains a dictionary that points each document to intro and section part of it
-    - inverted_index.json : which contains a dictionary that poinys each term_id to the documets that have this word
+    - inverted_index.json : which contains a dictionary that poinyt each term_id to the documets that have this word
+    - Tfidf.json : which contains tfidf for each term_id based on the document number
