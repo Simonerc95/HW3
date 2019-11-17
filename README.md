@@ -4,6 +4,8 @@ Our group consists of these members :
 * Simone Ercolino
 * Negin Amininodoushan
 
+
+
 you can find an explanation of all files in this repository below :
 - collector.py: a python file that contains the lines of code needed to collect our data from the html pages of Wikipedia.
 
