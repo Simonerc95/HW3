@@ -26,3 +26,9 @@ you can find an explanation of all files in this repository below :
 - exercise_4.py: python file that contains the implementation of the algorithm that solves problem 4.
 
 - main.ipynb: a Jupyter notebook explaines the strategies we adopted solving the homework and bonus part.
+
+- databases we used consist of :
+    - vocabulary.json : which contains a dictionary that points each term_id to a word
+    - doc_words.json : which contains a dictionary that points each document to the words it contains
+    - tsvs.json : which contains a dictionary that points each document to intro and section part of it
+    -inverted_index.json : which contains a dictionary that poinys each term_id to the documets that have this word
