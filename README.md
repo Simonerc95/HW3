@@ -19,7 +19,7 @@ you can find an explanation of all files in this repository below :
 
 - index_utils.py: a python file that contains the functions we used for creating indexes.
 
-- utils.py: a python file that gather functions we used in collector and index files
+- utils.py: containing all functions we need to run the main.py file
 
 - main.py: a python file that once executed build up the search engine and execute a query. 
 
