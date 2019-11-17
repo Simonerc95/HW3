@@ -31,4 +31,4 @@ you can find an explanation of all files in this repository below :
     - vocabulary.json : which contains a dictionary that points each term_id to a word
     - doc_words.json : which contains a dictionary that points each document to the words it contains
     - tsvs.json : which contains a dictionary that points each document to intro and section part of it
-    -inverted_index.json : which contains a dictionary that poinys each term_id to the documets that have this word
+    - inverted_index.json : which contains a dictionary that poinys each term_id to the documets that have this word
