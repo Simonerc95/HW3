@@ -2,11 +2,11 @@
 
 
 
-collector.py: a python file that contains the lines of code needed to collect our data from the html pages of Wikipedia.
+- collector.py: a python file that contains the lines of code needed to collect our data from the html pages of Wikipedia.
 
-collector_utils.py: a python file that stores the function we used in collector.py.
+- collector_utils.py: a python file that stores the function we used in collector.py.
 
-parser.py: a python file that contains the lines of code needed to parse the entire collection of html pages and save those in tsv files.
+* parser.py: a python file that contains the lines of code needed to parse the entire collection of html pages and save those in tsv files.
 
 parser_utils.py: a python file that stores the function we used in parser.py.
 
